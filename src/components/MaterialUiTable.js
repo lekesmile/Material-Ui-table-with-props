@@ -3,7 +3,7 @@ import MaterialTable from "material-table";
 
 
 
-export default class Ano extends Component {
+export default class MaterialUiTable extends Component {
    
     render() {
         console.log(this.props)
